@@ -1,0 +1,62 @@
+.mainPhotoContainer{
+    /* display: flex; */
+    justify-content: center;
+    margin: 0px 0px 0px 20vw;
+}
+  
+#mainPhoto{
+    height: 90vh;
+}
+
+.main-img-wrap{
+    position: relative;
+}
+
+.user-link{
+    transition: .3s color ease; 
+    color:#E4DFDA
+}
+
+.user-link:hover{
+    color:#0f0f0f
+}
+
+.img-info{
+    background-color: #EE6123;
+    color: #E4DFDA;
+    font-weight: 800;
+    font-size: 3vh;
+    width: 14.5vw;
+    height: 49.6vh;
+    margin: 0px 0px 0px 822.5px;
+    position: absolute;
+    top: 0;
+}
+
+.modal-btn{
+    border: 0;
+    background-color: #E4DFDA;
+    color: #0f0f0f;
+    margin: 5px 2px 0px 5px;
+    padding: 10px;
+    transition: .3s color ease;
+    font-weight: 800;
+    position: relative;
+}
+
+.modal-btn:hover{
+    color: #EE6123;
+}
+
+#like-timeline{
+    width: 45px;
+}
+
+.head-info{
+    margin: 10px 0px 10px 20px;
+    color:#E4DFDA;
+}
+
+.head-description{
+    margin: 10px 0px 10px 20px;
+}

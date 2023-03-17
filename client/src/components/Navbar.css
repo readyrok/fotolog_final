@@ -1,0 +1,69 @@
+@import url('https://fonts.googleapis.com/css2?family=Work+Sans:ital,wght@0,600;0,800;1,600;1,800&display=swap');
+
+
+.navbar{
+    font-family: 'Work Sans', sans-serif;
+    background-color: #0f0f0f;
+    color: #E4DFDA;
+    width: 20vw;
+    height: 100vh;
+    position: fixed; 
+    float: left;
+    font-weight: 800;
+}
+
+.welcome{
+    font-size: 7vw;
+    text-align: right;
+    top: 0;
+    position: relative;
+    right: 0px;
+    line-height: 4vh;
+    margin: 0px 0px 80vh 0px;
+}
+
+.link{
+    color: #E4DFDA;
+    font-size: 7vh;
+    padding: 0;
+    transition: .3s font-style ease;
+}
+
+.link:hover{
+    color: #EE6123;
+}
+
+.item{
+    text-align: right;
+    width: 100%;
+}
+
+.login-menu{
+    height: auto;
+    list-style: none;
+    position: fixed;
+    padding: 0px 0px 0px 7px;
+    bottom: 5px;
+    line-height: 5vh;
+}
+
+.hello{
+    font-size: 8.1vh;
+    text-align: right;
+    top: 3px;
+    position: absolute;
+    right: 17px;
+}
+
+.avatar{
+    width: 87px;
+    top: 0;
+    padding: 0px 0px 0px 10px;
+    position: absolute;
+    transition: .3s opacity ease;
+
+}
+
+.avatar:hover{
+    opacity: 0.5;
+}

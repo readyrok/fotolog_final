@@ -1,0 +1,10 @@
+.image-wrap{
+    top: 0;
+    height: 100vh;
+    overflow: hidden;
+}
+
+.main-photo{
+    height: auto;
+    width: 100%;    
+}

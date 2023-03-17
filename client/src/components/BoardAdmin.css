@@ -1,0 +1,25 @@
+.admin-header {
+    font-weight: 800;
+    padding: 0 0 0 20vw;
+    margin: 10px;
+}
+
+.user-list {
+    padding: 0 0 0 20vw;
+    margin: 10px;
+}
+
+.delete-btn {
+    border: 0;
+    background-color: #0f0f0f;
+    color: #E4DFDA;
+    margin: 5px 2px 0px 5px;
+    padding: 10px;
+    width: 100px;
+    transition: .3s color ease;
+    font-weight: 800;
+}
+
+.delete-btn:hover {
+    color: #EE6123;
+}

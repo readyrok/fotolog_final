@@ -1,0 +1,56 @@
+.profile{
+    width: 100vh;
+    height: auto;
+    padding: 30px 30px 30px 30px;
+    background-color: #0f0f0f;
+    color: #E4DFDA;
+    margin: 0px 0px 0px 20vw;
+    float: left;
+    font-family: 'Work Sans', sans-serif;
+    font-size: 4.9vh;
+}
+
+.profile-header{
+    margin: 0px 0px 0px 20vw;
+    padding: 5px 27px 27px 27px;
+    height: 12.7vh;
+    width: 100vh;
+    background-color: #EE6123;
+    color: #E4DFDA;
+    font-weight: 800;
+    font-family: 'Work Sans', sans-serif;
+    font-size: 7vh;
+}
+
+.role-list{
+    list-style: none;
+}
+
+ul{
+    padding: 0;
+    margin: 0;
+}
+
+#edit{
+    text-align: left;
+}
+
+.info{
+    font-weight: 600;
+    font-size: 4.9vh;
+}
+
+#edit-profile{
+    border: 0;
+    background-color: #E4DFDA;
+    color: #0f0f0f;
+    margin: 30px 0px 0px 0px;
+    padding: 10px;
+    width: 150px;
+    transition: .3s color ease;
+    font-weight: 800;
+}
+
+#edit-profile:hover{
+    color: #EE6123;
+}
